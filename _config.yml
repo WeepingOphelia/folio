@@ -18,7 +18,9 @@ plugins:
   - jekyll-feed
 minima:
   date_format: "%d %B %Y; %H.%M"
-show_excerpts: true
+  background_color: "#111"
+  text_color: "#fdfdfd"
+show_excerpts: false
 
 exclude:
   - .sass-cache/
